@@ -14,17 +14,25 @@ Production-grade AI agent skills — **free tier** on GitHub, **premium bundles*
 | [seo-content-writer](skills/seo-content-writer/SKILL.md) | Keyword → SERP analysis → structured long-form article | Rank-worthy content fast |
 | [ai-writing-humanizer](skills/ai-writing-humanizer/SKILL.md) | Detect + rewrite AI writing patterns | Make AI text indistinguishable from human |
 
-## 💰 Premium Bundle — Coming Soon
+---
 
-**The Creator Stack** — 7 battle-tested skills for content creators who want full automation:
+## 💰 Premium: The Creator Stack — $19.99
 
-1. Full Content Empire (multi-source scrape → blog → social)
-2. Video Factory (article → vertical video, Pexels + Remotion)
-3. 小红书 Publisher (compliance + scheduling + analytics)
-4. Fiverr Gig Automator (auto-generate + deliver)
-5. Passive Income Toolkit (affiliate + digital products)
-6. Wallpaper Curation Pipeline (auto-curate → publish)
-7. Blog SEO Master (JSON-LD + schema + competitor analysis)
+**7 production-grade skills** — the exact configs that run a 24/7 content operation.
+
+| # | Skill | Automates |
+|---|-------|-----------|
+| 1 | Content Empire | Multi-source scraping → blog → social |
+| 2 | Video Factory | Article → vertical video (Pexels + Remotion) |
+| 3 | 小红书 Publisher | Compliance + scheduling, zero-reject |
+| 4 | Fiverr Gig Automator | Auto-generate gigs + auto-deliver |
+| 5 | Passive Income Toolkit | Affiliate + digital products + SaaS blueprint |
+| 6 | Wallpaper Pipeline | Auto-curate → process → publish |
+| 7 | Blog SEO Master | JSON-LD + gap analysis + internal linking |
+
+**Why pay?** Free skills are generic workflows. These are battle-tested across 200+ posts, 50+ videos, real 小红书 publishing. Edge cases, platform quirks, and optimizations that took months to discover — all encoded.
+
+👉 **[Get The Creator Stack on Gumroad](https://gumroad.com/l/creator-stack)** (launching soon — star the repo for updates)
 
 ---
 
@@ -40,12 +48,6 @@ cp -r hermes-skills-marketplace/skills/* /opt/data/skills/
 ```bash
 claude plugin marketplace add liuyu1980-boop/hermes-skills-marketplace
 ```
-
----
-
-## Why Paid?
-
-Free skills are solid. Premium skills are what we run 24/7 in production — tested across 200+ posts, 50+ videos, real 小红书 publishing. You get the exact configs, edge cases, and pitfalls that took months to discover.
 
 ---
 
